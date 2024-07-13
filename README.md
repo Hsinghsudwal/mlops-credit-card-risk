@@ -1,1 +1,1 @@
-# Credit-Risk-ml-ops
+# Credit-Risk-mlops
