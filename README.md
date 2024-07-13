@@ -1,1 +1,1 @@
-# Credit-Risk-mlops
+# mlops-credit-card-risk
